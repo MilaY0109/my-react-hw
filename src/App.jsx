@@ -1,5 +1,5 @@
 import './App.css'
-import MailBox from './Components/MailBox'
+import MailBox from './Components/MailBox/MailBox'
 
 const meestExpress = [
   { id: "1", userMail: "hary@mail.com" },

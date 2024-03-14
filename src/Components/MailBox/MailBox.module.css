@@ -1,0 +1,25 @@
+ .mailbox {
+     border: 1px solid black;
+     padding: 20px;
+     border-radius: 10px;
+     background-color: rgba(0, 0, 0, 0.04);
+
+     line-height: 1.50;
+ }
+
+ .mailbox.full {
+     background-color: rgba(255, 0, 51, 0.08);
+ }
+
+ .mailboxTitle {
+     margin-bottom: 20px;
+     margin-top: 0;
+     text-shadow: 4px 3px 2px rgba(41, 28, 221, 0.489);
+ }
+
+ /* .mailboxList {
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     border: 1px solid cornflowerblue;
+ } */
